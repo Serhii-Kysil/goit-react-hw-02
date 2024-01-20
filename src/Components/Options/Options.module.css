@@ -1,0 +1,12 @@
+.btnCont {
+  display: flex;
+  gap: 4px;
+  margin-top: 30px;
+}
+.btn {
+  border-radius: 5px;
+  outline: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  cursor: pointer;
+}
